@@ -17,6 +17,7 @@ list_drives.txt
 shortener.txt
 categories.txt
 cookies.txt
+terabox.txt
 downloads/*
 .github/instructions/*
 .github/skills/*
@@ -24,4 +25,7 @@ downloads/*
 graphify-out/*
 .graphify_*
 .agent*
+AGENTS.md
 __pycache__/
+DESIGN.md
+.claude
